@@ -63,7 +63,7 @@ Follow the interactive prompts to configure:
 
 When a match is found:
 
-    ADDRESS: EQB...
+    ADDRESS: UQB...YOUR_TEXT...
     MNEMONIC: word1 word2 ... word24
 
 Results are saved to the specified file with restricted permissions.
